@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\cnode.h(61): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(36): warning C4018: '>': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(49): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(66): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(84): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(111): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(127): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\ckdtree.h(143): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\main.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\oglkd-tree\oglkd-tree\main.cpp(217): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OGLKd-tree.vcxproj -> D:\Code\dave-david.roque\EDA\OGLKd-tree\Debug\OGLKd-tree.exe

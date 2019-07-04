@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\cnode.h(88): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(35): warning C4018: '<=': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(63): warning C4018: '>': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(66): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(90): warning C4018: '>': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(93): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(117): warning C4018: '>': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\ckdtree.h(120): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtreewithmax\kdtreewithmax\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KDTreeWithMax.vcxproj -> D:\Code\dave-david.roque\EDA\KDTreeWithMax\Debug\KDTreeWithMax.exe

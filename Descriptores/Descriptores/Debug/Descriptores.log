@@ -1,0 +1,12 @@
+﻿  Descriptores.cpp
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(86): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(78): warning C4101: 'stop_holder': unreferenced local variable
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(131): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(144): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(145): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(147): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(161): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(167): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(168): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\descriptores\descriptores\descriptores.cpp(171): warning C4018: '<': signed/unsigned mismatch
+  Descriptores.vcxproj -> D:\Code\dave-david.roque\EDA\Descriptores\Debug\Descriptores.exe

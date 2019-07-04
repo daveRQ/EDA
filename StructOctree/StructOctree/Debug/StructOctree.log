@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\code\dave-david.roque\eda\structoctree\structoctree\node.h(51): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\structoctree\structoctree\node.h(60): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\structoctree\structoctree\octree.h(109): warning C4018: '>': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\structoctree\structoctree\octree.h(122): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\structoctree\structoctree\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StructOctree.vcxproj -> D:\Code\dave-david.roque\EDA\StructOctree\Debug\StructOctree.exe

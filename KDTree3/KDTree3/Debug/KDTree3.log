@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\cnode.h(61): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(36): warning C4018: '>': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(49): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(66): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(84): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(111): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(127): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\ckdtree.h(143): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\kdtree3\kdtree3\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KDTree3.vcxproj -> D:\Code\dave-david.roque\EDA\KDTree3\Debug\KDTree3.exe

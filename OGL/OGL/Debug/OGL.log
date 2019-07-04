@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\code\dave-david.roque\eda\ogl\ogl\node.h(51): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\node.h(60): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\octree.h(112): warning C4018: '>': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\octree.h(125): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\octree.h(193): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\main.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\code\dave-david.roque\eda\ogl\ogl\main.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\main.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\main.cpp(119): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\main.cpp(134): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
+d:\code\dave-david.roque\eda\ogl\ogl\main.cpp(288): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OGL.vcxproj -> D:\Code\dave-david.roque\EDA\OGL\Debug\OGL.exe
